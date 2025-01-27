@@ -16,7 +16,7 @@ Getting Started
 To get started with the project, follow these steps:
 
 1. Clone the repository
-git clone https://github.com/your-username/user-management-app.git
+git clone https://github.com/your-username/User-Mgmt-Dashboard.git
 
 ### Key Sections:
 1. **Features**: Describes what the app can do (view, add, edit, delete users).
