@@ -12,11 +12,6 @@ Technologies Used
 React: For building the user interface.
 JSONPlaceholder API: For mock backend functionality (used to simulate adding, editing, and deleting users).
 CSS: For styling the application.
-Getting Started
-To get started with the project, follow these steps:
-
-1. Clone the repository
-git clone https://github.com/your-username/User-Mgmt-Dashboard.git
 
 ### Key Sections:
 1. **Features**: Describes what the app can do (view, add, edit, delete users).
